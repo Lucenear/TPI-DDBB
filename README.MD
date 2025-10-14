@@ -4,7 +4,7 @@
 
 ---
 
-## 📌 Comisión **M2025-13**
+## 📌 Comisión: *M2025-13*
 
 ---
 
@@ -29,7 +29,7 @@ Aquí se almacenan todos los scripts SQL, consultas, diagramas y materiales rela
 
 Antes de comenzar a trabajar, debes clonar el repositorio en tu computadora:
 
-### 1. Pararse en la carpeta donde deseas clonar el proyecto
+1. Pararse en la carpeta donde deseas clonar el proyecto
 ```bash
 cd ~/Documentos  # (por ejemplo)
 ```
