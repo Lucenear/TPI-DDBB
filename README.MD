@@ -17,8 +17,8 @@
 ---
 
 ## 📂 Descripción del Repositorio
-Repositorio del **Trabajo Práctico Integrador (TPI)** para la materia **Bases de Datos**, desarrollado en equipo.  
-Aquí se almacenan todos los scripts SQL, consultas, diagramas y materiales relacionados con el proyecto.
+Desarrollo en equipo del repositorio del **Trabajo Práctico Integrador (TPI)** para la materia **Bases de Datos**.  
+Aqui se almacenan todos los scripts SQL, consultas, diagramas y materiales relacionados con el proyecto.
 
 ---
 
@@ -60,7 +60,7 @@ git checkout pepito # (ejemplo)
 git pull origin main
 ```
 
-4. Hago mis modificaciones (scripts SQL, etc.)
+4. Hago mis modificaciones (scripts SQL, etc.)  
 
 5. Guardo y confirmo mis cambios
 ```bash
