@@ -4,8 +4,9 @@
 
 ---
 
-## Comisión
-**M2025-13**
+## 📌 Comisión **M2025-13**
+
+---
 
 ## 👥 Alumnos
 
@@ -43,7 +44,9 @@ git clone https://github.com/Lucenear/TPI-DDBB.git
 cd TPI-DDBB
 ```
 
-## 📌 Flujo de trabajo individual
+---
+
+## 📝 Flujo de trabajo individual
 
 1. Verifico mi rama actual
 ```bash
@@ -75,5 +78,6 @@ git push origin pepito #(ejemplo)
 
 7. Creo el Pull Request desde GitHub
 
+---
 
 ⚠️ ¡Este repositorio está al día! Si ves algo desactualizado, hablanos por favor 😉
