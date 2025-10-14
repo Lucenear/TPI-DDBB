@@ -21,39 +21,52 @@ Aquí se almacenan todos los scripts SQL, consultas, diagramas y materiales rela
 
 Antes de comenzar a trabajar, debes clonar el repositorio en tu computadora.
 
-
-# Pararse en la carpeta donde deseas clonar el proyecto
+1. Pararse en la carpeta donde deseas clonar el proyecto
+```bash
 cd ~/Documentos  # (por ejemplo)
+```
 
-# Clonar el repositorio completo
+2. Clonar el repositorio completo
+```bash
 git clone https://github.com/Lucenear/TPI-DDBB.git
+```
 
-# Entrar al proyecto
+3. Entrar al proyecto
+```bash
 cd TPI-DDBB
-
-
+```
 
 ## ⚠️ Flujo de trabajo individual ##
 
-# 1. Verifico mi rama actual
+1. Verifico mi rama actual
+```bash
 git status
+```
 
-# 2. Me aseguro de estar en mi rama
+2. Me aseguro de estar en mi rama
+```bash
 git checkout iniaki (ejemplo)
+```
 
-# 3. Actualizo mi rama con los cambios del main
+3. Actualizo mi rama con los cambios del main
+```bash
 git pull origin main
+```
 
-# 4. Hago mis modificaciones (scripts SQL, etc.)
+4. Hago mis modificaciones (scripts SQL, etc.)
 
-# 5. Guardo y confirmo mis cambios
+5. Guardo y confirmo mis cambios
+```bash
 git add .
 git commit -m "Agrego consultas de la actividad 3"
+```
 
-# 6. Subo mis cambios al repositorio remoto
+6. Subo mis cambios al repositorio remoto
+```bash
 git push origin iniaki
+```
 
-# 7. Creo el Pull Request desde GitHub
+7. Creo el Pull Request desde GitHub
 
 
 ⚠️ ¡Este repositorio está al día! Si ves algo desactualizado, hablanos por favor 😉
