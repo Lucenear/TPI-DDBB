@@ -60,7 +60,8 @@ git checkout pepito # (ejemplo)
 git pull origin main
 ```
 
-<br>4. Hago mis modificaciones (scripts SQL, etc.)<br>
+4. Hago mis modificaciones (scripts SQL, etc.)
+<br>  <br>
 
 5. Guardo y confirmo mis cambios
 ```bash
