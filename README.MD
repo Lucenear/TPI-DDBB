@@ -1,8 +1,11 @@
-# 💻 Bases de Datos I - Trabajo Practico Integral  
+# 💻 Bases de Datos I - Trabajo Práctico Integral
 **Tecnicatura Universitaria en Programación**  
-📍 *Universidad Tecnológica Nacional*  
+📍 *Universidad Tecnológica Nacional*
 
-## Comisión: **M2025-13**
+---
+
+## Comisión
+**M2025-13**
 
 ## 👥 Alumnos
 
@@ -11,17 +14,21 @@
 - **Elizondo, Iñaki**  
   📧 elizondo.inaki25@gmail.com  
 - **Farias, Gustavo**  
-  📧 fariasg1988@gmail.com 
+  📧 fariasg1988@gmail.com
 
-## 📂 Descripción del Repositorio  
-Repositorio del **Trabajo Práctico Integrador (TPI)** para la materia **Base de Datos**, desarrollado en equipo.  
-Aquí se almacenan todos los scripts SQL, consultas, diagramas y materiales relacionados con el proyecto. 
+---
 
-## ⚙️ Cómo usar este repositorio ##
+## 📂 Descripción del Repositorio
+Repositorio del **Trabajo Práctico Integrador (TPI)** para la materia **Bases de Datos**, desarrollado en equipo.  
+Aquí se almacenan todos los scripts SQL, consultas, diagramas y materiales relacionados con el proyecto.
 
-Antes de comenzar a trabajar, debes clonar el repositorio en tu computadora.
+---
 
-1. Pararse en la carpeta donde deseas clonar el proyecto
+## ⚙️ Cómo usar este repositorio
+
+Antes de comenzar a trabajar, debes clonar el repositorio en tu computadora:
+
+### 1. Pararse en la carpeta donde deseas clonar el proyecto
 ```bash
 cd ~/Documentos  # (por ejemplo)
 ```
@@ -36,7 +43,7 @@ git clone https://github.com/Lucenear/TPI-DDBB.git
 cd TPI-DDBB
 ```
 
-## ⚠️ Flujo de trabajo individual ##
+## 📌 Flujo de trabajo individual
 
 1. Verifico mi rama actual
 ```bash
@@ -45,7 +52,7 @@ git status
 
 2. Me aseguro de estar en mi rama
 ```bash
-git checkout iniaki (ejemplo)
+git checkout pepito # (ejemplo)
 ```
 
 3. Actualizo mi rama con los cambios del main
@@ -63,7 +70,7 @@ git commit -m "Agrego consultas de la actividad 3"
 
 6. Subo mis cambios al repositorio remoto
 ```bash
-git push origin iniaki
+git push origin pepito #(ejemplo)
 ```
 
 7. Creo el Pull Request desde GitHub
