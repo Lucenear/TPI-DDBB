@@ -61,7 +61,7 @@ git pull origin main
 ```
 
 4. Hago mis modificaciones (scripts SQL, etc.)
-<br><br>
+<br>
 
 5. Guardo y confirmo mis cambios
 ```bash
