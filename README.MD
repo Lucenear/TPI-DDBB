@@ -1,7 +1,7 @@
 # 💻 Bases de Datos I - Trabajo Práctico Integral
 **Tecnicatura Universitaria en Programación**  
 📍 *Universidad Tecnológica Nacional*
-📌 *Comisión: M2025-13*
+📌 **Comisión: M2025-13*
 
 ---
 
