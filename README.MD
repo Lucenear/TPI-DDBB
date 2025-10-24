@@ -2,6 +2,7 @@
 **Tecnicatura Universitaria en Programación**  
 📍 *Universidad Tecnológica Nacional*  
 📌 *Comisión: M2025-13*
+📌 *Grupo 13*
 
 ---
 
