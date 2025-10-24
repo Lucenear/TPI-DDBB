@@ -1,5 +1,7 @@
 DELIMITER $$
 
+DROP PROCEDURE IF EXISTS actualizar_legajo_retry;
+
 CREATE PROCEDURE actualizar_legajo_retry(
     IN p_nro_legajo VARCHAR(20),
     IN p_nueva_categoria VARCHAR(30)
